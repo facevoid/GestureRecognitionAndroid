@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/void/Desktop/200/BanglaDigRecFromGesture/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/void/Desktop/200/BanglaDigRecFromGesture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c23f2c69febbe8cc7018ea73b838a0d9843f9751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/void/Desktop/200/BanglaDigRecFromGesture/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09904ba507d195d561261473100477ef73847f8">
+        <dex dex="/home/void/Desktop/200/BanglaDigRecFromGesture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_805e09c791c3a37304c88d03b250694a882726d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/void/Desktop/200/BanglaDigRecFromGesture/app/libs/libandroid_tensorflow_inference_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6454951fd82b6c2de1666263e2cd6e593627d878">
+        <dex dex="/home/void/Desktop/200/BanglaDigRecFromGesture/app/build/intermediates/transforms/dex/debug/folders/1000/2/libandroid_tensorflow_inference_java_e5f2016f04c294dac207fa6180cc7155f7d659eb/classes.dex" />
+    </item>
+
+</items>
